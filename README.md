@@ -4,6 +4,7 @@ This Tableau dashboard provides an interactive visualization of road accident da
 For the dataset:https://docs.google.com/spreadsheets/d/19i5tLofSsB-X_KQ2nJIGx80MNbaoHBKI/edit?usp=sharing&ouid=103479706766306729014&rtpof=true&sd=true
 
 Few glance of the dashboard:
+
 Filters :
 
 ![image](https://github.com/HarshitBajeta/Road_Accident_Dashboard-/assets/86832339/f003f72f-fef0-4e5d-8b1a-8c970e00548c)
